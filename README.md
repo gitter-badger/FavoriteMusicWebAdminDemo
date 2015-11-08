@@ -1,2 +1,2 @@
-# FavoriteMusicAppDemo
-FavoriteMusicAppDemo 데모판입니다.
+# FavoriteMusicWebAdminDemo
+FavoriteMusicWebAdminDemo 데모판입니다.
